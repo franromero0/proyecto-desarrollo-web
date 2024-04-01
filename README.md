@@ -2,7 +2,7 @@
 ## BLOGO MUSIC
 El proyecto trata de un emprendimiento dedicada a la producción musical y venta de productos digitales para otras personas que se dediquen al rubro.
 
-![](https://i.ibb.co/yPRFD7b/logo-blogo.jpg)
+![](https://i.ibb.co/TrG8NhY/image.png)
 
 Se eligió esta marca debido a la cercanía que see posee directamente con el dueño con el fin de poner en practica con una empresa real los conocimientos adquiridos en el curso y así obtener un feedback del 'cliente'.
 
