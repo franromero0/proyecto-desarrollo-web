@@ -2,8 +2,10 @@
 ## BLOGO MUSIC
 El proyecto trata de un emprendimiento dedicada a la producción musical y venta de productos digitales para otras personas que se dediquen al rubro.
 
+![](https://i.ibb.co/yPRFD7b/logo-blogo.jpg)
 
-Se eligió esta marca debido a la cercanía que poseo personalmente con el dueño con el fin de poner en practica con una empresa real los conocimientos adquiridos en el curso y así obtener un feedback del 'cliente'.
+Se eligió esta marca debido a la cercanía que see posee directamente con el dueño con el fin de poner en practica con una empresa real los conocimientos adquiridos en el curso y así obtener un feedback del 'cliente'.
+
 ### Tecnologías utilizadas
 En este proyecto se utilizaron las siguientes tecnlogías:
 - CSS y HTML: En absolutamente todas las páginas del sitio.
@@ -24,3 +26,10 @@ En este proyecto se utilizaron las siguientes tecnlogías:
 
 #### RESPONSIVE
 - Las páginas full responsive hasta la entrega 2 son: 'contact.html' y 'products.html'.
+
+#### LINK de DEPLOY
+[http://https://franromero0.github.io/proyecto-desarrollo-web/](http://https://franromero0.github.io/proyecto-desarrollo-web/)
+
+
+
+
